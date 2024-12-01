@@ -1,1 +1,9 @@
 .DS_Store
+cookie.py
+__pycache__
+.vscode
+fromInternet.py
+.env
+cookies.txt
+input.txt
+in.txt
