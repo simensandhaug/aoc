@@ -1,14 +1,17 @@
 from collections import defaultdict, deque
+import numpy as np
+import re
+import itertools
 
 lines = open("input.txt", "r").read().strip().split("\n")
 
 
 def p1():
-    pass
+    return None
 
 def p2():
-    pass
+    return None
 
-print(p1())
-print(p2())
+print(f"Part 1: {p1()}")
+print(f"Part 2: {p2()}")
 
