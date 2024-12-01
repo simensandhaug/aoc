@@ -124,12 +124,6 @@ def main(args: list[str] = None):
         os.mkdir(path)
 
     if not args.i:
-        # Create testinput file
-        if (
-            not os.path.exists(testPath := os.path.join(path, "testinput.txt"))
-            or args.f
-        ):
-            open(testPath, "w").close()
 
         # Create part 1 and 2
         if not os.path.exists(mainPath := os.path.join(path, "main.py")) or args.f:
