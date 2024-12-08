@@ -5,7 +5,7 @@ Advent of Code
 
 <!-- START STATS -->
 ```py
-[2024] 14*
+[2024] 16*
 [2023]  0*
 [2022]  0*
 [2021]  0*
@@ -16,6 +16,6 @@ Advent of Code
 [2016]  0*
 [2015]  4*
 
-Total stars: 18*
+Total stars: 20*
 ```
 <!-- END STATS -->
